@@ -1,5 +1,5 @@
 The name of this project is called Bluppy, a combination of the words "bloom" and "happy"
 
-It aims to improve student mental health through virtual pet companionship, solve issues through an integrated API chat with a cat persona, and increase productivity through the link between the animations and a timer.
+It aims to provide a unqiue approach to mental health, productivity, and companionship issues - with an orange cat named Mimo guiding the way!
 
 Note that this is a project in development, it was developed for Science-fair purposes, but wih intentions to advance it in the future.

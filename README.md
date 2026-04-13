@@ -1,4 +1,4 @@
-The name of this project is called Bluppy, a combination of the words "bloom" and "happy"
+The name of this project is called Bluppy, a combination of the words "bloom" and "happy".
 
 It aims to provide a unqiue approach to mental health, productivity, and companionship issues - with an orange cat named Mimo guiding the way!
 

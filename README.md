@@ -1,4 +1,4 @@
-The name of this project is called Bluppy, a combination of thw words "bloom" and "happy"
+The name of this project is called Bluppy, a combination of the words "bloom" and "happy"
 
 It aims to improve student mental health through virtual pet companionship, solve issues through an integrated API chat with a cat persona, and increase productivity through the link between the animations and a timer.
 
